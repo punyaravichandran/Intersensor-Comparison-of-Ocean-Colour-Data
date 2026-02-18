@@ -3,14 +3,14 @@ Spatial comparison of Remote Sensing Reflectance (Rrs) between NASA PACE OCI & M
 
 ## Data Used
 
-- PACE OCI (Level-2 OC_AOP)
+1. PACE OCI (Level-2 OC_AOP)
 - Variable: Rrs
 - Group: geophysical_data
 - Navigation: navigation_data
 - Selected band index: 152 → 678 nm
 - PACE swath regions: Arabian Sea, Bay of Bengal
 
-- MODIS-Aqua (Level-2 OC)
+2. MODIS-Aqua (Level-2 OC)
 - Variable: Rrs_678
 - Group: geophysical_data
 - Navigation: navigation_data
