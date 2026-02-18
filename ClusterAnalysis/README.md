@@ -9,6 +9,9 @@ Unsupervised clustering (K-Means) to analyze the relationship between Chlorophyl
 ## Outputs
 
 ✔ Elbow curve (Chlorophyll & Reflectance)
+
 ✔ Chlorophyll cluster plot
+
 ✔ Elbow curve (Reflectance)
+
 ✔ 10-band reflectance cluster plot
