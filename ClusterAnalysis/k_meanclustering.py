@@ -74,6 +74,7 @@ plt.yticks(fontsize=11)
 plt.legend()
 plt.show()
 
+
                                                   # For Reflectance #
                                                   
 # Select the features for clustering
@@ -250,6 +251,7 @@ for i in range(k):
     axs[2,1].scatter(cluster_data['Rrs_678'], cluster_data['MODRrs_678'], label=f'Cluster {i}', s=cluster_marker_size)
 centroids10 = kmeans10.cluster_centers_
 axs[2,1].set_title('Rrs 678') # Set subtitle for this plot
+
 
 
 # Plot centroids with adjusted size
