@@ -1,5 +1,5 @@
 # PACE vs MODIS Chlorophyll & Reflectance Clustering Analysis
-Unsupervised clustering (K-Means) to analyze the relationship between Chlorophyll, Remote Sensing Reflectance (Rrs) across multiple wavelengths.
+Unsupervised clustering (K-Means) to analyze the relationship between Chlorophyll, Remote Sensing Reflectance (Rrs) across PACE and MODIS sensors.
 
 ## Dataset Used
 
@@ -11,7 +11,5 @@ Unsupervised clustering (K-Means) to analyze the relationship between Chlorophyl
 ✔ Elbow curve (Chlorophyll & Reflectance)
 
 ✔ Chlorophyll cluster plot
-
-✔ Elbow curve (Reflectance)
 
 ✔ 10-band reflectance cluster plot
