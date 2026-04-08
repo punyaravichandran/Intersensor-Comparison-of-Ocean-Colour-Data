@@ -1,4 +1,4 @@
-# PACE–MODIS Chlorophyll Spatial Alignment Techniques
+PACE–MODIS Chlorophyll Spatial Alignment Techniques
 
 * Regime-based Robust regression (Huber)
 * 2D Needleman–Wunsch Alignment (NWA)
