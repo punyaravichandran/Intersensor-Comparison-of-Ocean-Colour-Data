@@ -13,8 +13,8 @@ import plotly.express as px
 from sklearn.cluster import KMeans
 
 #Load CSV file
-Chl_Data = pd.read_csv(r'/content/Chl_March_5_20_wholedataset.csv')
-Refl_Data = pd.read_csv(r'/content/Reflectance_March_5_20_WholeData.csv')
+Chl_Data = pd.read_csv(r'/content/Chl_March_5_31_wholedataset.csv')
+Refl_Data = pd.read_csv(r'/content/Reflectance_March_5_31_WholeData.csv')
 
 #Drop unnecessary coloumns
 Refl_Data = Refl_Data.drop(columns=['Unnamed: 0','latitude','longitude'])
