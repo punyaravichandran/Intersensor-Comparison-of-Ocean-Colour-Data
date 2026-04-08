@@ -227,10 +227,7 @@ bias = np.where(mask, np.nan, bias)
 sam  = np.where(mask, np.nan, sam)
 
 # Smart Scaling
-# Bias scaling (robust)
 bmax = np.nanpercentile(np.abs(bias), 95)
-# NWA scaling
 nwa_min, nwa_max = np.percentile(nwa_map, [5, 95])
-# SAM scaling
 sam_min, sam_max = np.percentile(sam, [5, 95])
 
