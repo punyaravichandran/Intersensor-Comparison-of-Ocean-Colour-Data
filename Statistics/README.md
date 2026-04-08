@@ -1,4 +1,4 @@
-# PACE vs MODIS Chlorophyll & Rrs Statistical Comparison
+PACE vs MODIS Chlorophyll & Rrs Statistical Comparison
 
 * Visualization: hexbin density plots
 * Statistical Metrics calculated are
