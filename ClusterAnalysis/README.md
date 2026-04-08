@@ -7,5 +7,7 @@ Dataset Used:
 
 Outputs:
 ✔ Elbow curve (Chlorophyll & Reflectance)
+
 ✔ Chlorophyll cluster plot
+
 ✔ 10-band reflectance cluster plot
