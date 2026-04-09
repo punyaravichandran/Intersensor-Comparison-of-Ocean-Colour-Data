@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "P"
+  given-names: "PUNYA"
+  orcid: "https://orcid.org/0000-0002-3116-8338"
+- family-names: "NIDAMANURI"
+  given-names: "RAMA RAO"
+  orcid: "https://orcid.org/0000-0003-3930-6595"
+title: "Intersensor-Comparison-of-Ocean-Colour-Data"
+version: 1.0.0
+doi: 10.5281/zenodo.19479444
+date-released: 2026-04-08
+url: "https://github.com/punyaravichandran/Intersensor-Comparison-of-Ocean-Colour-Data"
